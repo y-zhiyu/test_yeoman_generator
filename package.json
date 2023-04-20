@@ -1,5 +1,5 @@
 {
-  "name": "@tb/generator-test",
+  "name": "generator-tbtest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
